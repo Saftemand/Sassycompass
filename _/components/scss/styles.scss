@@ -1,5 +1,9 @@
 $mycolor : #43CBA3;
-
+$myothercolor : red;
 body{
 	background: $mycolor;
+}
+
+p{
+	color: $myothercolor;
 }

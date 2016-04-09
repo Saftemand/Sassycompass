@@ -1,3 +1,7 @@
 /* line 3, ../components/scss/styles.scss */
 body {
   background: #43CBA3; }
+
+/* line 7, ../components/scss/styles.scss */
+p {
+  color: red; }
